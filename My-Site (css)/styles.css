@@ -1,0 +1,255 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 1;
+  margin-bottom: 0;
+  position: absolute;
+  top: 220px;
+  right: 530px;
+}
+
+.text1 {
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8rem;
+  margin-top: 0;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  margin: 0 auto 0 auto;
+}
+
+.head4 {
+  position: relative;
+  top: 40px;
+  left: 128px;
+}
+
+.head3 {
+  position: relative;
+  right: 180px;
+  bottom: 80px;
+}
+
+a {
+  color: #11999E;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.intro {
+  text-align: justify;
+  display: inline-block;
+  width: 30%;
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  position: relative;
+  top: 35px;
+  left: 157px;
+}
+
+.text2 {
+  position: relative;
+  bottom: 80px;
+  right: 150px;
+}
+
+p {
+  line-height: 2;
+  text-align: justify;
+  display: inline-block;
+  width: 30%;
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 8px 0 0 0;
+  width: 5%;
+  border-color: #F6F6F6;
+  margin: 60px auto;
+}
+
+.h2 {
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 30px;
+}
+
+.topcontainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 150px;
+}
+
+.middle-container {
+  position: relative;
+  text-align: center;
+}
+
+.bottom-container {
+  margin: 30px auto 0 auto;
+  background-color: #66BFBF;
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+
+.man {
+  border-radius: 100%;
+  width: 150px;
+  margin-top: 50px;
+}
+
+.manager {
+  border-radius: 100%;
+  width: 200px;
+  position: absolute;
+  left: 400px;
+  margin-top: 10px;
+}
+
+.coding {
+  border-radius: 100%;
+  width: 200px;
+  position: relative;
+  top: 90px;
+  left: 280px;
+}
+
+.img11 {
+  position: absolute;
+  left: 430px;
+  bottom: 300px;
+  width: 120px;
+}
+
+.img1 {
+  position: absolute;
+  right: 450px;
+  top: 120px;
+  width: 120px;
+}
+
+.sun {
+  width: 150px;
+  position: relative;
+  right: 700px;
+  bottom: 200px;
+}
+
+.contact-me {
+  margin-top: 100px;
+  position: relative;
+  top: 20px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 30px auto 0;
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.skill-row {
+  line-height: 2;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.exp {
+  width: 350px;
+  height: 120px;
+  margin: 0;
+}
+
+.skills {
+  width: 80%;
+  margin: auto;
+}
+
+.footer-link {
+  display: inline-block;
+  margin: 40px auto 10px auto;
+  text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
+  width: auto;
+  font-size: 20px;
+  color: #11999E;
+}
+
+.end {
+  text-align: center;
+  display: block;
+  margin: 30px auto 0 auto;
+  padding: 20px 0;
+  color: #EAF6F6;
+  font-size: 1rem;
+}
+
+.contact-me {
+  margin-bottom: 70px;
+}
+
+.footerhead {
+  font-weight: bolder;
+  position: relative;
+  top: 5px;
+  color: #11999E
+}
+
+.last {
+  margin: 20px auto;
+  display: block;
+  top: 16px;
+  width: 610px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
